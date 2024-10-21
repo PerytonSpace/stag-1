@@ -17,13 +17,13 @@ This is a development board used to test similar hardware as expected for the fi
 <br clear="both"/>
 
 <p align="center">
-<img src="https://github.com/PerytonSpace/stag-1/blob/main/dev-board/pcb-files/main.png" width = 40% height = 40%>
+<img src="https://github.com/PerytonSpace/stag-1/blob/main/dev-board/pcb-files/main.png" >
 </p>
 <p align="center">
-<img src="https://github.com/PerytonSpace/stag-1/blob/main/dev-board/pcb-files/power.png" width = 40% height = 40%>
+<img src="https://github.com/PerytonSpace/stag-1/blob/main/dev-board/pcb-files/power.png" >
 </p>
 <p align="center">
-<img src="https://github.com/PerytonSpace/stag-1/blob/main/dev-board/pcb-files/sensors.png" width = 40% height = 40%>
+<img src="https://github.com/PerytonSpace/stag-1/blob/main/dev-board/pcb-files/sensors.png" >
 </p>
 
 
