@@ -1,11 +1,7 @@
 # STAG-1
-<<<<<<< Updated upstream
-STAG-1 is an open-source rocketry data logging and flight computer based around the RP2040 microprocessor. The flight computer will measure, log and transmit live data during its flight on the rocket’s attitude, position and environment. The project will provide students with hands-on experience working with rocketry and flight avionics and electronic systems.
-=======
 STAG-1 is an open-source rocketry data logging and flight computer based around the Pi Pico microcontroller. The flight computer will measure, log and transmit live data during its flight on the rocket’s attitude, position and environment. 
 
 The project will provide students with hands-on experience working with rocketry and flight avionics and electronic systems.
->>>>>>> Stashed changes
 
 # Getting Started
 
@@ -16,6 +12,17 @@ Download the Arduino IDE 2.X [here](https://docs.arduino.cc/learn/starting-guide
 ```
 https://docs.arduino.cc/learn/starting-guide/the-arduino-software-ide/
 ```
+
+The Arduino IDE allows you to program non-Arduino boards with the use of cusotm made board managers, for the Raspberry Pi Pico we recommend using the [earlephilhower](https://github.com/earlephilhower/arduino-pico) board manager. 
+
+To include this board manager in the Arduino IDE, go to preferenecs and paste the link below into the Additional boards manager URLs.
+
+```
+https://github.com/earlephilhower/arduino-pico/releases/download/global/package_rp2040_index.json
+```
+Then in the Arduino IDE head to the board managers tab on the left and search for Pi Pico and the earlephilhower board manager will not show ready to be installed.
+
+
 
 
 ##  [Hardware](https://github.com/PerytonSpace/stag-1) 
