@@ -1,13 +1,6 @@
 # STAG-1 DEV
 This is a development board used to test similar hardware as expected for the final STAG-1 flight computer and allows for development of flght software.
 
-
-
-
-
-
-
-
 <img align = "left" src="https://github.com/PerytonSpace/stag-1/blob/main/assets/img/dev-pcb-top.jpg" width = 40% height = 40%><img align = "right" src="https://github.com/PerytonSpace/stag-1/blob/main/assets/img/dev-pcb-bottom.jpg" width = 40% height = 40%>
 
 <br clear="both"/>
