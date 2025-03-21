@@ -22,8 +22,12 @@ https://github.com/earlephilhower/arduino-pico/releases/download/global/package_
 ```
 Then in the Arduino IDE head to the board managers tab on the left and search for Pi Pico and the earlephilhower board manager will not show ready to be installed.
 
+<p align="center">
+<img src="https://github.com/PerytonSpace/stag-1/blob/dev-documentation/assets/img/board-manager.jpg
+" width = 40% height = 40%>
+</p>
 
-
+Once installed, you are now ready to code the STAG-1 flight computer.
 
 ##  [Hardware](https://github.com/PerytonSpace/stag-1) 
 The hardware section is a combination of PCB schematics, production files and the bill of materials.
